@@ -1,13 +1,32 @@
-# Hi there, I'm Shayantan Chakrabarti 👋
+<!-- ==================== ANIMATED DYNAMIC BANNER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shayantan%20Chakrabarti&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Autonomous%20AI%20Agents%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Systems&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+</p>
 
-**Electronics & Computer Science Undergraduate | Aspiring AI/ML & Software Engineer**  
-📍 *Bengaluru, Karnataka, India*
+<!-- ==================== ANIMATED TYPING HEADER ==================== -->
+<div align="center">
 
-Passionate about engineering autonomous AI agent swarms, scalable machine learning pipelines, and full-stack data applications.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=650&lines=Electronics+%26+CS+Undergraduate;Building+Autonomous+AI+Agent+Swarms;Machine+Learning+%26+Explainable+AI;Full-Stack+Financial+%26+Data+Applications" alt="Typing Banner" />
+
+  <br/>
+  📍 *Bengaluru, Karnataka, India*
+  <br/>
+
+</div>
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠️ Technical Toolkit & Ecosystem
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,postgres,mongodb,docker,pytorch,fastapi,react,nextjs,nodejs,git,linux,githubactions,vscode&perline=8" alt="Skill Icons" />
+</a>
+
+</div>
+
+<br/>
 
 - **Languages:** Python, C++, TypeScript, JavaScript, SQL
 - **AI / ML & Data:** PyTorch, Scikit-Learn, Pandas, NumPy, Streamlit, FastAPI, Explainable AI (XAI)
@@ -32,12 +51,31 @@ Passionate about engineering autonomous AI agent swarms, scalable machine learni
 
 ---
 
-### ⚡ GitHub Analytics
+### 🐍 Contribution Snake Matrix
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shayantanchak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayantanchak&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shayantanchak/Shayantanchak/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shayantanchak/Shayantanchak/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Shayantanchak/Shayantanchak/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+### ⚡ GitHub Analytics & Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shayantanchak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayantanchak&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayantanchak&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shayantanchak&theme=tokyo-night&hide_border=true" width="48%" alt="Activity Graph" />
+
+</div>
 
 ---
 
