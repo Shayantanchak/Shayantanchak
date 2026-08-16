@@ -67,12 +67,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shayantanchak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayantanchak&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Shayantanchak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayantanchak&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayantanchak&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=Shayantanchak&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shayantanchak&theme=tokyo-night&hide_border=true" width="48%" alt="Activity Graph" />
 
 </div>
